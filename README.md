@@ -1,1 +1,1 @@
-# Code_Wars_JavaScript
+# Code Wars with JavaScript
