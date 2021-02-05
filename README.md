@@ -9,7 +9,7 @@ If a name has exactly 4 letters in it, you can be sure that it has to be a frien
 Ex: Input = ["Ryan", "Kieran", "Jason", "Yous"], Output = ["Ryan", "Yous"]
 
 
-Kata2
+-> Kata2
 
 In this kata you will create a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out.
 
