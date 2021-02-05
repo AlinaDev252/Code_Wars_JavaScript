@@ -1,3 +1,4 @@
+
 # Code Wars with JavaScript
 
 Kata1
@@ -7,3 +8,9 @@ If a name has exactly 4 letters in it, you can be sure that it has to be a frien
 
 Ex: Input = ["Ryan", "Kieran", "Jason", "Yous"], Output = ["Ryan", "Yous"]
 
+
+Kata2
+
+In this kata you will create a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out.
+
+Ex.: [1,2,'aasf','1','123',123] == [1,2,123]
