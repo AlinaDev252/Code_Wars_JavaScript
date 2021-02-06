@@ -1,5 +1,5 @@
 function warnTheSheep(queue) {
-	if (queue[queue.length - 1] === "wolf") {
+  if (queue[queue.length - 1] === "wolf") {
 		return "Pls go away and stop eating my sheep";
 	} else {
 		let index = queue.findIndex((x) => x == "wolf");
