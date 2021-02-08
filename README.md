@@ -49,3 +49,11 @@ Note: The function accepts an integer and returns an integer.
 A hero is on his way to the castle to complete his mission. However, he's been told that the castle is surrounded with a couple of powerful dragons! each dragon takes 2 bullets to be defeated, our hero has no idea how many bullets he should carry.. Assuming he's gonna grab a specific given number of bullets and move forward to fight another specific given number of dragons, will he survive?
 
 Return True if yes, False otherwise :)
+
+-> Kata7 - Double Sort
+
+Simple enough this one - you will be given an array. The values in the array will either be numbers or strings, or a mix of both. You will not get an empty array, nor a sparse one.
+
+Your job is to return a single array that has first the numbers sorted in ascending order, followed by the strings sorted in alphabetic order. The values must maintain their original type.
+
+Note that numbers written as strings are strings and must be sorted with the other strings.
