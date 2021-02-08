@@ -57,3 +57,7 @@ Simple enough this one - you will be given an array. The values in the array wil
 Your job is to return a single array that has first the numbers sorted in ascending order, followed by the strings sorted in alphabetic order. The values must maintain their original type.
 
 Note that numbers written as strings are strings and must be sorted with the other strings.
+
+-> Kata8 - Check if a triangle is an equable triangle!
+
+A triangle is called an equable triangle if its area equals its perimeter. Return true, if it is an equable triangle, else return false. You will be provided with the length of sides of the triangle. Happy Coding!
