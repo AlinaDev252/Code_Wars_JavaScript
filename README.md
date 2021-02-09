@@ -61,3 +61,9 @@ Note that numbers written as strings are strings and must be sorted with the oth
 -> Kata8 - Check if a triangle is an equable triangle!
 
 A triangle is called an equable triangle if its area equals its perimeter. Return true, if it is an equable triangle, else return false. You will be provided with the length of sides of the triangle. Happy Coding!
+
+->Kata9 - Summy
+
+Write a function that takes a string which has integers inside it separated by spaces, and your task is to convert each integer in the string into an integer and return their sum.
+
+Ex.: summy("1 2 3") ==> 6
