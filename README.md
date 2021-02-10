@@ -62,8 +62,24 @@ Note that numbers written as strings are strings and must be sorted with the oth
 
 A triangle is called an equable triangle if its area equals its perimeter. Return true, if it is an equable triangle, else return false. You will be provided with the length of sides of the triangle. Happy Coding!
 
-->Kata9 - Summy
+-> Kata9 - Summy
 
 Write a function that takes a string which has integers inside it separated by spaces, and your task is to convert each integer in the string into an integer and return their sum.
 
 Ex.: summy("1 2 3") ==> 6
+
+-> Kata10 - Simple string reversal
+
+In this Kata, we are going to reverse a string while maintaining the spaces (if any) in their original place.
+
+For example:
+
+solve("our code") = "edo cruo"
+-- Normal reversal without spaces is "edocruo".
+-- However, there is a space at index 3, so the string becomes "edo cruo"
+
+solve("your code rocks") = "skco redo cruoy".
+solve("codewars") = "srawedoc"
+More examples in the test cases. All input will be lower case letters and in some cases spaces.
+
+Good luck!
