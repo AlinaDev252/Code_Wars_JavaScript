@@ -89,3 +89,15 @@ Good luck!
 Given a mixed array of number and string representations of integers, add up the string integers and subtract this from the total of the non-string integers.
 
 Return as a number.
+
+-> Kata12 - Two to One
+
+Take 2 strings s1 and s2 including only letters from ato z. Return a new sorted string, the longest possible, containing distinct letters - each taken only once - coming from s1 or s2.
+
+Ex.:
+a = "xyaabbbccccdefww"
+b = "xxxxyyyyabklmopq"
+longest(a, b) -> "abcdefklmopqwxy"
+
+a = "abcdefghijklmnopqrstuvwxyz"
+longest(a, a) -> "abcdefghijklmnopqrstuvwxyz"
