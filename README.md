@@ -83,3 +83,9 @@ solve("codewars") = "srawedoc"
 More examples in the test cases. All input will be lower case letters and in some cases spaces.
 
 Good luck!
+
+-> Kata11 - Divide and Conquer
+
+Given a mixed array of number and string representations of integers, add up the string integers and subtract this from the total of the non-string integers.
+
+Return as a number.
