@@ -1,5 +1,10 @@
 # Code Wars with JavaScript
 
+In order to improve my problem solving skills and also to learn JavaScript syntax, I decided to solve at least 1 Kata/day, using https://www.codewars.com/
+
+My user account is: https://www.codewars.com/users/AlinaDev252
+Bellow you can find the description for each Kata I selected.
+
 -> Kata1 - Friend or Foe?
 
 Make a program that filters a list of strings and returns a list with only your friends name in it.
