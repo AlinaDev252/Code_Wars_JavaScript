@@ -4,4 +4,4 @@ function fizzbuzz(n) {
 	});
 }
 
-console.log(JSON.stringify(fizzbuzz(10)));
+console.log(JSON.stringify(fizzbuzz(3)));
